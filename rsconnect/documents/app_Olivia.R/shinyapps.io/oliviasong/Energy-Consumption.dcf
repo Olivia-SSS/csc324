@@ -1,0 +1,13 @@
+name: Energy-Consumption
+title: Energy-Consumption
+username:
+account: oliviasong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7371738
+bundleId: 6424990
+url: https://oliviasong.shinyapps.io/Energy-Consumption/
+when: 1666305126.7767
+lastSyncTime: 1666305126.77672
+asMultiple: FALSE
+asStatic: FALSE
